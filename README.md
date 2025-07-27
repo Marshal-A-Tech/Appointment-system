@@ -76,7 +76,3 @@ Marshal Amirthalingam
 GitHub: https://github.com/Marshal-A-Tech
 Email: marshall.amirthalingam@gmail.com
 
-License:
----------
-This project is open-source under the MIT License.
-
